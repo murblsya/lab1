@@ -10,6 +10,7 @@
 int main() {
 
     std::cout << "Hello\n";
+    std::cout << "world\n";
 
     // целочисленные
     char c1; // 1 байт, 256 значение, -128..127
